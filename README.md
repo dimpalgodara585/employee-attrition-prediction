@@ -24,4 +24,4 @@ Run all cells to see preprocessing, model training, and results.
 Author
 
 Dimpal Godara
-GitHub Profile
+https://github.com/dimpalgodara585
